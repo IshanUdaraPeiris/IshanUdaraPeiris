@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Ishan Udara Peiris  
 
-![Header Image](https://raw.githubusercontent.com/username/username/main/header.png) <!-- Replace with your image link -->
 
 🎓 **Undergraduate in Electronic and Telecommunication Engineering**  
 🏛 **University of Moratuwa, Sri Lanka**  
