@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Ishan Udara Peiris  
 
+![Header Image](https://raw.githubusercontent.com/username/username/main/header.png) <!-- Replace with your image link -->
 
-**IshanUdaraPeiris/IshanUdaraPeiris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Undergraduate in Electronic and Telecommunication Engineering**  
+🏛 **University of Moratuwa, Sri Lanka**  
+💡 Passionate about **Embedded Systems** and **IoT**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🛠 Technical Skills
 
+- **Microcontrollers:** C/C++, Embedded C  
+- **IoT Integration:** HTTP with Grafana & InfluxDB , MQTT with Node-RED   
+
+---
+
+## 🚀 Featured Project  
+
+### 1️⃣ Smart Solar Inverter System  
+🔋 A cutting-edge solution for efficient solar power generation with integrated IoT monitoring.  
+
+**🛠 Technologies:**  
+Embedded C, Grafana, InfluxDB, HTTP Protocol, Power Electronics  
+
+**📈 Outcome:**  
+Enhanced energy efficiency and anomaly detection  
+
+**💡 What sets us apart?**  
+- 🔹 Smart Control System for real-time optimization  
+- 🔹 Synchronized energy sharing for maximum efficiency  
+- 🔹 Ideal for off-grid locations and Kabana-type hotels needing reliable, synchronized solar power  
+- 🔹 Focused on marketability and sustainable impact  
+
+**🌱 Our Goal:**  
+To enable maximum energy utilization, minimize losses, and deliver reliable, scalable solar energy for a greener future.  
+
+🔗 **[SEIAN Inverter System](https://github.com/username/seian-inverter)** <!-- Replace with actual project link -->
+
+---
+
+## 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishan%20Udara%20Peiris-blue)](https://www.linkedin.com/in/your-linkedin)  
+[![GitHub](https://img.shields.io/badge/GitHub-IshanUdaraPeiris-lightgrey)](https://github.com/username)  
+
+---
