@@ -24,6 +24,7 @@ Embedded C, Grafana, InfluxDB, HTTP Protocol, Power Electronics
 
 **📈 Outcome:**  
 Enhanced energy efficiency and anomaly detection  
+![Alt text](11.jpg)
 
 **💡 What sets us apart?**  
 - 🔹 Smart Control System for real-time optimization  
