@@ -30,7 +30,7 @@ Enhanced energy efficiency and anomaly detection
 </p>
 
 <p align="center">
-  <img src="14.jpg" alt="Team" width="280" height="280"/>
+  <img src="14.jpg" alt="Team" width="280" height="400"/>
 </p>
 
 **💡 What sets us apart?**  
