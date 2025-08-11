@@ -26,7 +26,7 @@ Embedded C, Grafana, InfluxDB, HTTP Protocol, Power Electronics
 Enhanced energy efficiency and anomaly detection  
 <p align="center">
   <img src="11.jpg" alt="Prototype" width="250"/>
-  <img src="image2.png" alt="Testing" width="250"/>
+  <img src="14.jpg" alt="Testing" width="250"/>
   <img src="image3.png" alt="Presentation" width="250"/>
 </p>
 
