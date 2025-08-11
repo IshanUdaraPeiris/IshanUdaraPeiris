@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Featured Project  
+## 🚀 Featured Projects  
 
 ### 1️⃣ Smart Solar Inverter System  
 🔋 A cutting-edge solution for efficient solar power generation with integrated IoT monitoring.  
