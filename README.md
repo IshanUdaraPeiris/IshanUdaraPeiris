@@ -30,7 +30,7 @@ Enhanced energy efficiency and anomaly detection
 </p>
 <p align="center">
   <img src="14.jpg" alt="Prototype" width="250"/>
-  <img src="12.jpg" alt="Presentation" width="250"/> 
+  <img src="Dashboard.png" alt="Presentation" width="250"/> 
 </p>
 <p align="center">
   <img src="14.jpg" alt="Team" width="500" height="400"/>
